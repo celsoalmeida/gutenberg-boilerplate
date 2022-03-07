@@ -1,7 +1,7 @@
 {
   "name": "gutenberg-boilerplate",
   "version": "1.0.0",
-  "description": "Boilerplate for Gutenberg (WordPress) costumization and a base tempalte for blocks creation.",
+  "description": "Boilerplate for Gutenberg (WordPress) customization and a base template for block development.",
   "main": "index.js",
   "scripts": {
     "build": "wp-scripts build",
